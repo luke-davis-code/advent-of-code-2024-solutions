@@ -1,3 +1,3 @@
-My solutions in python to the 2024 Advent Of Code 
+My solutions to the 2024 Advent Of Code 
 
 "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other." - https://adventofcode.com/2024/about
