@@ -24,9 +24,9 @@ def get_valid_mul_II(memory, do_flag=True, total=0):
     # Do everything up to that don't (keep track in total)
     # Now look for next do
     # Ignore everything up to that do
-    # REPEAT ... until either no more dos to find or no more dont's
+    # REPEAT ... until either no more dos to find or no more dont's (deal with each case on its own)
 
-    # Base case(s)
+    # Base case
     if re.search(r"do\(\)|don't\(\)", memory) is None:
         if do_flag:
             total += get_valid_mul(memory)
