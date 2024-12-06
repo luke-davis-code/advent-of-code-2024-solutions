@@ -14,6 +14,7 @@ def get_valid_mul(memory):
 
 
 puzzle_input = """"""
+
 print(get_valid_mul(puzzle_input))
 
 # PART TWO

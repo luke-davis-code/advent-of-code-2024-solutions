@@ -1,6 +1,6 @@
 import re
 
-# Part One
+# PART ONE
 
 def print_queue(input):
     # Variable to keep track of whether an update is allowed
@@ -38,7 +38,7 @@ puzzle_input = """"""
 
 print(print_queue(puzzle_input))
 
-# Part Two
+# PART TWO
 
 # Use similar function to before
 

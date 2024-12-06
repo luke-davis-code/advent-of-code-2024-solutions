@@ -1,3 +1,5 @@
+# PART ONE
+
 def distinct_positions(input):
     total = 0
 
