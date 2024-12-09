@@ -1,5 +1,6 @@
 import itertools
 
+# PART ONE
 
 def get_all_points(frequency, map):
     # Returns a list of tuples
