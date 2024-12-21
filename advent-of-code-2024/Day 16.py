@@ -24,11 +24,26 @@ for i in range(len(maze)):
         if maze[i][j] == "E":
             end = (i, j)
 
-# Breadth first search
-frontier = [start]
-explored = []
+for row in maze:
+    print(row)
 
-next = 
+# Perform a depth first search to get maze solutions
+# Using wikipedia as basis of implementation
+def depth_first_search(maze, start, end, visited):
+    if visited is None:
+        visited = []
+    if start not in visited:
+        visited.append(start)
+        # For all directions can travel in cehck that node
+        # If not visited then call dfs
+        forward = 
+
+
+
+
+
+
+
 
 
 
